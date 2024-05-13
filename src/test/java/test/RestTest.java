@@ -1,20 +1,13 @@
 package test;
 
 import com.example.rest.entity.Student;
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
-import com.google.gson.stream.JsonReader;
+
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.response.ResponseBody;
 import io.restassured.specification.RequestSpecification;
-import net.bytebuddy.description.method.MethodDescription;
 import org.junit.jupiter.api.Test;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.lang.reflect.Type;
-import java.util.List;
 
 import static org.hamcrest.Matchers.*;
 
