@@ -1,0 +1,218 @@
+[
+  {
+    "studentId": 1,
+    "firstName": "hiba",
+    "lastName": "mohammad",
+    "sex": "female",
+    "age": 25,
+    "degree": 95.7,
+    "book": {
+      "bookId": 1,
+      "booksName": [
+        "natur",
+        "chamestry"
+      ],
+      "listOfGames": [
+        {
+          "gameId": 1,
+          "numberOfHours": [
+            3,
+            3,
+            1,
+            4
+          ]
+        },
+        {
+          "gameId": 2,
+          "numberOfHours": [
+            5,
+            6,
+            71,
+            84
+          ]
+        }
+      ]
+    },
+    "graduated": true
+  },
+  {
+    "studentId": 2,
+    "firstName": "basel",
+    "lastName": "dery",
+    "sex": "male",
+    "age": 30,
+    "degree": 98.2,
+    "book": {
+      "bookId": 1,
+      "booksName": [
+        "natur",
+        "chamestry"
+      ],
+      "listOfGames": [
+        {
+          "gameId": 1,
+          "numberOfHours": [
+            3,
+            3,
+            1,
+            4
+          ]
+        },
+        {
+          "gameId": 2,
+          "numberOfHours": [
+            5,
+            6,
+            71,
+            84
+          ]
+        }
+      ]
+    },
+    "graduated": true
+  },
+  {
+    "studentId": 3,
+    "firstName": "najim",
+    "lastName": "dery",
+    "sex": "male",
+    "age": 27,
+    "degree": 99.1,
+    "book": {
+      "bookId": 1,
+      "booksName": [
+        "natur",
+        "chamestry"
+      ],
+      "listOfGames": [
+        {
+          "gameId": 1,
+          "numberOfHours": [
+            3,
+            3,
+            1,
+            4
+          ]
+        },
+        {
+          "gameId": 2,
+          "numberOfHours": [
+            5,
+            6,
+            71,
+            84
+          ]
+        }
+      ]
+    },
+    "graduated": false
+  },
+  {
+    "studentId": 4,
+    "firstName": "abd",
+    "lastName": "alabrash",
+    "sex": "male",
+    "age": 27,
+    "degree": 81.3,
+    "book": {
+      "bookId": 1,
+      "booksName": [
+        "natur",
+        "chamestry"
+      ],
+      "listOfGames": [
+        {
+          "gameId": 1,
+          "numberOfHours": [
+            3,
+            3,
+            1,
+            4
+          ]
+        },
+        {
+          "gameId": 2,
+          "numberOfHours": [
+            5,
+            6,
+            71,
+            84
+          ]
+        }
+      ]
+    },
+    "graduated": false
+  },
+  {
+    "studentId": 5,
+    "firstName": "mahmoud",
+    "lastName": "abouhashem",
+    "sex": "male",
+    "age": 26,
+    "degree": 90.8,
+    "book": {
+      "bookId": 1,
+      "booksName": [
+        "natur",
+        "chamestry"
+      ],
+      "listOfGames": [
+        {
+          "gameId": 1,
+          "numberOfHours": [
+            3,
+            3,
+            1,
+            4
+          ]
+        },
+        {
+          "gameId": 2,
+          "numberOfHours": [
+            5,
+            6,
+            71,
+            84
+          ]
+        }
+      ]
+    },
+    "graduated": false
+  },
+  {
+    "studentId": 6,
+    "firstName": "nour",
+    "lastName": "nawara",
+    "sex": "female",
+    "age": 22,
+    "degree": 99.9,
+    "book": {
+      "bookId": 1,
+      "booksName": [
+        "natur",
+        "chamestry"
+      ],
+      "listOfGames": [
+        {
+          "gameId": 1,
+          "numberOfHours": [
+            3,
+            3,
+            1,
+            4
+          ]
+        },
+        {
+          "gameId": 2,
+          "numberOfHours": [
+            5,
+            6,
+            71,
+            84
+          ]
+        }
+      ]
+    },
+    "graduated": true
+  }
+]
